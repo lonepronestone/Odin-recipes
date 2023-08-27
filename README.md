@@ -1,1 +1,1 @@
-# Odin-recipes
+# Odin-recipes. In this project, I will be making a website in which i would add multiple recipes. This is my first attempt in making things especially a website. So, i will try my best and see where it goes.
